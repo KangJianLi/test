@@ -1,0 +1,54 @@
+[33mcommit 86548da5c3f7cd9cdf39adfb340000ea292f88ab[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 2284bcc 74922f9
+Author: LKJ <2661200072@qq.com>
+Date:   Fri Jun 22 09:55:18 2018 +0800
+
+    conflict fixed
+
+[33mcommit 2284bcc6fe1b67d6d87380ad5911ef6616081eaa[m
+Author: LKJ <2661200072@qq.com>
+Date:   Fri Jun 22 09:48:07 2018 +0800
+
+    & simple
+
+[33mcommit 74922f9b231b9c048d7a7e27e986d91d470d0197[m[33m ([m[1;32mfeaturel[m[33m)[m
+Author: LKJ <2661200072@qq.com>
+Date:   Fri Jun 22 09:42:06 2018 +0800
+
+    AND simple
+
+[33mcommit 8bde9089c78ef02a0605e988bedd3901769e47c0[m
+Author: LKJ <2661200072@qq.com>
+Date:   Fri Jun 22 09:29:45 2018 +0800
+
+    提交分支dev
+
+[33mcommit 137e35ad04862b9254b09bcb5d53dd614f2ef6c3[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: LKJ <2661200072@qq.com>
+Date:   Thu Jun 21 17:15:35 2018 +0800
+
+    新的test.txt
+
+[33mcommit 4ed4cc316b35da69487024859e6f54e67ad573a8[m
+Author: LKJ <2661200072@qq.com>
+Date:   Thu Jun 21 17:12:57 2018 +0800
+
+    删除git_test.txt
+
+[33mcommit b77e2ff1edb0b497a1fbc73f63593675958bdfb2[m
+Author: LKJ <2661200072@qq.com>
+Date:   Thu Jun 21 16:32:32 2018 +0800
+
+    删除test.txt
+
+[33mcommit 048a6ae2b1afa21aee45e8250134c90d59c1acdd[m
+Author: LKJ <2661200072@qq.com>
+Date:   Thu Jun 21 15:55:53 2018 +0800
+
+    提交两个文件
+
+[33mcommit 151685fb93dff8544053b2068ae879da80fd99ca[m
+Author: LKJ <2661200072@qq.com>
+Date:   Thu Jun 21 14:47:15 2018 +0800
+
+    随便写了点什么
